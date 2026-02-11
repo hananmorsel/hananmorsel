@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Hanan Morsel  
 ### AI Engineer | Machine Learning Developer | Cybersecurity Specialist
 
+
+## 👩‍💻 About Me
 I am an AI & Technology professional with a strong foundation in **cybersecurity, IT systems**, and **Python-based development**.  
 I build intelligent solutions using **machine learning, deep learning, and automation**, and I enjoy creating educational tech experiences through coding and robotics.
+I enjoy creating practical and impactful technology for both learning and real-world applications.
 
 ---
 
